@@ -1,0 +1,113 @@
+C:\manual Csharp\manual Csharp\obj\Debug\manual Csharp.csproj.AssemblyReference.cache
+C:\manual Csharp\manual Csharp\obj\Debug\manual_Csharp.Class.clsMysqlConnection.frmReConnect.resources
+C:\manual Csharp\manual Csharp\obj\Debug\manual_Csharp.FrmManual.resources
+C:\manual Csharp\manual Csharp\obj\Debug\manual_Csharp.Properties.Resources.resources
+C:\manual Csharp\manual Csharp\obj\Debug\manual Csharp.csproj.GenerateResource.cache
+C:\manual Csharp\manual Csharp\obj\Debug\manual Csharp.dll.licenses
+C:\manual Csharp\manual Csharp\obj\Debug\manual Csharp.csproj.CoreCompileInputs.cache
+C:\manual Csharp\manual Csharp\bin\Debug\manual Csharp.dll.config
+C:\manual Csharp\manual Csharp\bin\Debug\manual Csharp.dll
+C:\manual Csharp\manual Csharp\bin\Debug\manual Csharp.pdb
+C:\manual Csharp\manual Csharp\bin\Debug\DevComponents.DotNetBar2.dll
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.Data.v22.1.dll
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.Docs.v22.1.dll
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.XtraPdfViewer.v22.1.dll
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\manual Csharp\manual Csharp\bin\Debug\MySql.Data.dll
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.Spreadsheet.v22.1.Core.dll
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.DataVisualization.v22.1.Core.dll
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.Snap.v22.1.Core.dll
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.DataAccess.v22.1.dll
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.XtraCharts.v22.1.dll
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.Charts.v22.1.Core.dll
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.Xpo.v22.1.dll
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.CodeParser.v22.1.dll
+C:\manual Csharp\manual Csharp\bin\Debug\DevComponents.DotNetBar2.xml
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.Data.v22.1.xml
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.Docs.v22.1.xml
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.XtraPdfViewer.v22.1.xml
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\manual Csharp\manual Csharp\bin\Debug\MySql.Data.xml
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.Spreadsheet.v22.1.Core.xml
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.Snap.v22.1.Core.xml
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.DataAccess.v22.1.xml
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.XtraCharts.v22.1.xml
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.Charts.v22.1.Core.xml
+C:\manual Csharp\manual Csharp\bin\Debug\DevExpress.Xpo.v22.1.xml
+C:\manual Csharp\manual Csharp\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\de\DevExpress.XtraPdfViewer.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\es\DevExpress.XtraPdfViewer.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\ja\DevExpress.XtraPdfViewer.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\de\DevExpress.Spreadsheet.v22.1.Core.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\es\DevExpress.Spreadsheet.v22.1.Core.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\ja\DevExpress.Spreadsheet.v22.1.Core.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\de\DevExpress.Snap.v22.1.Core.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\es\DevExpress.Snap.v22.1.Core.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\ja\DevExpress.Snap.v22.1.Core.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\de\DevExpress.DataAccess.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\es\DevExpress.DataAccess.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\ja\DevExpress.DataAccess.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\de\DevExpress.XtraCharts.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\es\DevExpress.XtraCharts.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\ja\DevExpress.XtraCharts.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\de\DevExpress.Xpo.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\es\DevExpress.Xpo.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\bin\Debug\ja\DevExpress.Xpo.v22.1.resources.dll
+C:\manual Csharp\manual Csharp\obj\Debug\manual Csharp.csproj.CopyComplete
+C:\manual Csharp\manual Csharp\obj\Debug\manual Csharp.dll
+C:\manual Csharp\manual Csharp\obj\Debug\manual Csharp.pdb
